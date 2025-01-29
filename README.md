@@ -9,7 +9,6 @@ Este proyecto implementa algoritmos de búsqueda en grafos: **BFS (Breadth-First
 GRAPHS/
 │── main.py               # Archivo principal del programa
 │── algoritmo.py          # Definición de la clase base Algoritmo
-│── __init__.py           # Archivo para convertir la carpeta en un módulo
 │
 ├── Algoritmos/           # Carpeta que contiene los algoritmos específicos
 │   ├── BFS.py            # Implementación del algoritmo BFS
